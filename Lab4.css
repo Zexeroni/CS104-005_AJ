@@ -1,0 +1,58 @@
+#FirstHeading{
+    background-color: blue;
+
+    color: white;
+}
+
+.container{
+    background-color: lightgray;
+
+    color: #000000;
+    p{
+        color:red;
+    }
+}
+
+.highlight{
+    color: green;
+}
+
+div{
+    background-color: yellow;
+}
+
+#CPara{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.H1-H6{
+    text-decoration: dashed underline;
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+#intro{
+    font-weight: 300;
+}
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.custom-font{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#HUpp{
+    text-transform: uppercase;
+}
+
+.capitalize-text{
+    text-transform: capitalize;
+}
